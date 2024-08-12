@@ -1,5 +1,5 @@
 import JuegoApuestaCarrera.*
 
 program programJuego {
-  carreraAuto.iniciar()
+  consola.iniciar()
 }
